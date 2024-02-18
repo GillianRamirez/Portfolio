@@ -25,3 +25,6 @@
     I realize there's a lot more work I still have to do on this.
 
     Web app zip will have to be downloaded as a zip.
+
+    Overall, I think this was an slightly challenging and interesting start for me, 
+    getting back into coding.
