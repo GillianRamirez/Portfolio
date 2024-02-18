@@ -22,3 +22,5 @@
     4. Putting a "container" class to have an easier time centering all pages 
 
     I realize there's a lot more work I still have to do on this.
+
+    Web app zip will have to be downloaded as a zip.
