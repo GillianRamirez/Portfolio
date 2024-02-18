@@ -20,4 +20,5 @@
     2. Filling the blank spaces surrounding the main focus. Either with a couple of icons, text boxes, or other decorations.
     3. Making the contact form functional.
     4. Putting a "container" class to have an easier time centering all pages 
-    
+
+    I realize there's a lot more work I still have to do on this.
